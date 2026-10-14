@@ -1045,6 +1045,12 @@ Skills for marketing professionals, content creators, and growth teams.
   - Reference layer covers benchmarks, GDPR/CAN-SPAM/CASL compliance, cold email, SMS and WhatsApp, and 19 industry playbooks
   - Install: `npx skills add CosmoBlk/email-marketing-bible`
 
+- [nikhonit/llm-mentions-skills](https://github.com/nikhonit/llm-mentions-skills) ![Stars](https://img.shields.io/github/stars/nikhonit/llm-mentions-skills?style=flat-square)
+  - AI brand-visibility skills: check whether ChatGPT, Claude, Gemini and Perplexity mention a brand, at what rank and sentiment
+  - Returns the cited URLs per mention, plus Google AI Overviews, AI Mode and Bing Copilot coverage, for GEO/AEO work
+  - mentions-full, mentions-check and mentions-discover; pure Python stdlib, MIT-0
+  - Install: `npx skills add nikhonit/llm-mentions-skills --all`
+
 ---
 
 ## Domain-Specific Skills
