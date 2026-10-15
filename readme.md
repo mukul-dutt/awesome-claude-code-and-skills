@@ -1686,6 +1686,11 @@ Utilities and tools to enhance your Claude workflow.
   - Also covers JSON-first requests, async polling, and other model API jobs through the RunAPI CLI
   - JSON-first requests, async task polling, and terminal/CI-friendly workflows
   - Apache-2.0 licensed; install with `git clone https://github.com/runapi-ai/cli-skill ~/.claude/skills/runapi-cli`
+- [nikhonit/social-media-api-skills](https://github.com/nikhonit/social-media-api-skills) ![Stars](https://img.shields.io/github/stars/nikhonit/social-media-api-skills?style=flat-square)
+  - Agent skills for public social media data: TikTok, Instagram, LinkedIn, YouTube, X, Reddit and 30+ platforms
+  - One skill per platform plus a catch-all `social-media-api` skill, all calling the ScraperSocial REST API with one key and one JSON envelope
+  - Plain Node.js 20, zero dependencies; MIT-0 licensed
+  - Install with `npx skills add nikhonit/social-media-api-skills`; 100 free credits at signup
 
 ### CLI Configuration Tools
 
